@@ -128,7 +128,7 @@ AI + Data + Software Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,digitalocean,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,digitalocean,firebase&theme=dark" />
 
 </div>
 
