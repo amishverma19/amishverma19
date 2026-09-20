@@ -187,8 +187,6 @@ AI + Data + Software Engineering
 
 <div align="center">
 
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amishverma19&theme=tokyonight&hide_border=true" />
 
 </div>
