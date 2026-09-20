@@ -86,7 +86,7 @@ AI + Data + Software Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,fastapi,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind&theme=dark" />
 
 </div>
 
@@ -113,7 +113,7 @@ AI + Data + Software Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" />
 
 <br><br>
 
@@ -128,7 +128,7 @@ AI + Data + Software Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vercel,digitalocean,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,digitalocean,firebase&theme=dark" />
 
 </div>
 
