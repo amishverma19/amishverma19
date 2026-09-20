@@ -76,7 +76,7 @@ AI + Data + Software Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
 
 </div>
 
