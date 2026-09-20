@@ -217,6 +217,12 @@ AI + Data + Software Engineering
 
 <div align="center">
 
+<a href="mailto:amishverma.info@gmail.com">
+<img src="https://img.shields.io/badge/Email-amishverma.info%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/amishverma19/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -233,7 +239,7 @@ AI + Data + Software Engineering
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/918765432100">
+<a href="https://wa.me/6299254655">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
